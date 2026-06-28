@@ -7,7 +7,7 @@ Demonstrating the implementation of encryption and decryption in a secure enviro
 Symmetric (single) encryption techniques, Data protection
 
 ## Tools Used:
-Linux
+Linux, OpenSSL, AES 
 
 ![alt](https://github.com/ElyUTech/Project-24-Secure-Information-Using-Symmetric-Encryption/blob/main/7504ce7f-1.png)
 ![alt](https://github.com/ElyUTech/Project-24-Secure-Information-Using-Symmetric-Encryption/blob/main/7504ce7f-2.png)
