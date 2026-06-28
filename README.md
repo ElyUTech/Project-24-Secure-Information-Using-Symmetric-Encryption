@@ -4,7 +4,7 @@
 Demonstrating the implementation of encryption and decryption in a secure environment.
 
 ## Security Concepts:
-Symmetric (single) encryption techniques, Data protection
+Symmetric encryption techniques, Data protection
 
 ## Tools Used:
 Linux, OpenSSL, AES 
